@@ -1,2 +1,3 @@
 # ziv.kolatker
-web course
+hellow
+this is my homework repository 
